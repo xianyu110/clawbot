@@ -15,6 +15,8 @@
 
 ---
 
+推荐新的部署教程，[接入飞书](https://github.com/xianyu110/openclaw-feishu)
+
 ## 简介
 
 Clawdbot是一个开源的本地AI助手，支持通过消息应用（Telegram、WhatsApp、Discord等）或Web UI与AI模型交互。
