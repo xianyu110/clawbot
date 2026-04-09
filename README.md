@@ -1,4 +1,5 @@
 # Clawdbot完整配置指南：从安装到Claude Code中转
+> 📖 **纸质书《OpenClaw超级个体实操手册》已上市！** 清华大学出版社出版，在开源教程基础上全面重写+逐条验证。🛒 [京东专属购买链接（¥42，原价¥59.8）](https://item.jd.com/14669463.html)
 
 ![](https://upload.maynor1024.live/file/1769478880951_image-20260127095432442.png)
 
