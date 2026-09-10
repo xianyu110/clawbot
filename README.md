@@ -241,11 +241,11 @@ clawdbot pairing approve telegram ABC12345
 #### 1. 获取API凭证
 
 从中转服务获取：
-- **API Base URL**: `https://apipro.maynor1024.live`
+- **API Base URL**: `https://tryallapi.com`
 - **API Key**: `sk-xxxxxxxxxxxxx`
 
 **推荐服务：**
-- 推荐中转API：https://apipro.maynor1024.live/
+- 推荐中转API：https://tryallapi.com/
 - 购买链接：https://maynorai.tqfk.xyz/item/7
 
 #### 2. 修改主配置文件
@@ -272,7 +272,7 @@ nano ~/.clawdbot/clawdbot.json
     "mode": "merge",
     "providers": {
       "api-proxy-gpt": {
-        "baseUrl": "https://apipro.maynor1024.live/v1",
+        "baseUrl": "https://tryallapi.com/v1",
         "api": "openai-completions",
         "apiKey": "sk-你的API密钥",
         "models": [
@@ -293,7 +293,7 @@ nano ~/.clawdbot/clawdbot.json
         ]
       },
       "api-proxy-claude": {
-        "baseUrl": "https://apipro.maynor1024.live",
+        "baseUrl": "https://tryallapi.com",
         "api": "anthropic-messages",
         "apiKey": "sk-你的API密钥",
         "models": [
@@ -314,7 +314,7 @@ nano ~/.clawdbot/clawdbot.json
         ]
       },
       "api-proxy-google": {
-        "baseUrl": "https://apipro.maynor1024.live/v1beta",
+        "baseUrl": "https://tryallapi.com/v1beta",
         "api": "google-generative-ai",
         "apiKey": "sk-你的API密钥",
         "models": [
